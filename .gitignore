@@ -38,6 +38,5 @@ ENV/
 .streamlit/
 
 # Project specific
-data/
 .cache/
 *.log 

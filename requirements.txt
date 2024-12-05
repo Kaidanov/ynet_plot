@@ -1,0 +1,9 @@
+streamlit
+pandas
+plotly
+python-dotenv
+requests
+beautifulsoup4
+numpy
+hebrew_tokenizer
+streamlit-plotly-events
